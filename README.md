@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: May 3 - 6, 2023
+- Facilitator: @randyjerome-xpirit
 
 ## Class Resources
 
